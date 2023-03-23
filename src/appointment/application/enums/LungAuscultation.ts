@@ -1,0 +1,6 @@
+export enum LungAuscultation {
+  NOT_SPECIFIED = 'NOT_SPECIFIED',
+  NORMAL = 'NORMAL',
+  TACHYPNEA = 'TACHYPNEA',
+  BRADYPNEA = 'BRADYPNEA',
+}

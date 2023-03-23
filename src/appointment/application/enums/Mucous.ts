@@ -1,0 +1,8 @@
+export enum Mucous {
+  NOT_SPECIFIED = 'NOT_SPECIFIED',
+  NORMAL = 'NORMAL',
+  PALE = 'PALE',
+  ICTERIC = 'ICTERIC',
+  HYPEREMIC = 'HYPEREMIC',
+  BLUISH = 'BLUISH',
+}
